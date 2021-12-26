@@ -1,0 +1,13 @@
+package com.example.username_pw_jwt;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class UsernamePwJwtApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
